@@ -26,5 +26,13 @@ footer {
   text-align: left;
   color: white;
   background-color: dimgray;
+}
+
+footer p {
+  float: left;
   font-size: 11px;
+}
+footer nav {
+  margin-left: 70px;
+  padding-left: 30px;
 }
